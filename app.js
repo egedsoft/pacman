@@ -1,5 +1,6 @@
 'use strict';
-
+// test commit build
+var test_commit=1;
 var express = require('express');
 var path = require('path');
 var Database = require('./lib/database');
